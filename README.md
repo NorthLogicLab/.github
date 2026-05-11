@@ -2,7 +2,8 @@
 
 > *The lab where crazy ideas become structured engines.*
 
-NorthLogicLab is the engineering lab behind [theenginesbehind.com](https://theenginesbehind.com) — built by Jon Bach. We build decision engines, automation systems and regulatory intelligence tools for procurement, operations and compliance.
+NorthLogicLab is the engineering lab behind [theenginesbehind.com](https://theenginesbehind.com) — built by Jon Bach. 
+We build decision engines, automation systems and regulatory intelligence tools for procurement, operations and compliance.
 
 ---
 
