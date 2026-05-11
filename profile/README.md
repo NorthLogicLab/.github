@@ -14,7 +14,7 @@ Replaces Excel-based tender evaluation with structured, line-level scoring acros
 
 **🟢 VMI Systems — Vendor Managed Inventory**
 Four VMI technologies implemented across Lemvigh-Müller and Sanistål/Ahlsell — ESL, weight-based replenishment, vending automater and StockMaster. Live in production across Denmark.
-[View repo](https://github.com/NorthLogicLab/ESL)
+[View repo](https://github.com/NorthLogicLab/VendorManagedInventory)
 
 ### 🟢 TheEnginesBehind
 Portfolio and positioning site.
