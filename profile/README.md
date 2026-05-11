@@ -12,8 +12,8 @@ We build decision engines, automation systems and regulatory intelligence tools 
 Replaces Excel-based tender evaluation with structured, line-level scoring across commercial, technical and regulatory dimensions. PPWR / EPR / DPP aware.
 → [View repo](https://github.com/jonbach2012-design/PackagingTenderDecisionEngine)
 
-**🟢 ESL — Electronic Shelf Label**
-Automated VMI ordering system via REST API and SAP/EDI integration. Live in production.
+**🟢 VMI Systems — Vendor Managed Inventory**
+Four VMI technologies implemented across Lemvigh-Müller and Sanistål/Ahlsell — ESL, weight-based replenishment, vending automater and StockMaster. Live in production across Denmark.
 [View repo](https://github.com/NorthLogicLab/ESL)
 
 ### 🟢 TheEnginesBehind
